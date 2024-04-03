@@ -30,6 +30,9 @@ run the main file mouse.py
 ## Remainder
 currently the system is not very optimized and is in the early stages of development
 
+## For More Detail
+See the code for the detailed explanantion of the code line - by - line. I have explained each line of the code about what it does in the program and how the things are working using the hashes
+
 ## Future Work
 Add support for more gestures and map them to different functions.
 Improve hand detection accuracy and robustness.
