@@ -30,6 +30,17 @@ run the main file mouse.py
 ## Remainder
 currently the system is not very optimized and is in the early stages of development
 
+##Future Work
+Add support for more gestures and map them to different functions.
+Improve hand detection accuracy and robustness.
+Add support for custom gestures defined by the user.
+
+##Contributions
+Contributions to this project are welcome! Please fork the repository and open a pull request with your changes.
+
+##License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
 ##How It Works
 The script starts by capturing video frames from the webcam using OpenCV.
 These frames are then passed to the hand detection model from the MediaPipe library. The model returns the positions of different landmarks on the hand.
