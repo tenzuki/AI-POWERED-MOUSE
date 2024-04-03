@@ -52,13 +52,4 @@ The script uses the position of the index finger to control the position of the 
 
 Image showing the landmark points in the hand which are used to detetct the presence of the hand and also to control movement of the fingers
 
-##Future Work
-Add support for more gestures and map them to different functions.
-Improve hand detection accuracy and robustness.
-Add support for custom gestures defined by the user.
 
-##Contributions
-Contributions to this project are welcome! Please fork the repository and open a pull request with your changes.
-
-##License
-This project is licensed under the MIT License. See the LICENSE file for more details.
