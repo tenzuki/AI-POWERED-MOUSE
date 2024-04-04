@@ -54,6 +54,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 The script starts by capturing video frames from the webcam using OpenCV. These frames are then passed to the hand detection model from the MediaPipe library. The model returns the positions of different landmarks on the hand. A yellow circle is drawn around the index finger and the thumb to show the position of the fingers being tracked. The script uses the position of the index finger to control the position of the mouse pointer. When the thumb and index finger come close together, a click action is performed.
 
-![Hand Landmarks](https://media.geeksforgeeks.org/wp-content/uploads/20210802154942/HandLandmarks.png%29)
+![Hand Landmarks](https://www.researchgate.net/profile/Abhijit-Boruah-2/publication/367562179/figure/fig2/AS:11431281214312427@1703435796641/21-3D-hand-landmarks-localized-by-MediaPipe-hand-tracking-model.jpg)
 
 The image above shows the landmark points in the hand which are used to detect the presence of the hand and also to control movement of the fingers.
