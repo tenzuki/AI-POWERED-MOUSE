@@ -10,6 +10,7 @@ Welcome to the AI-Powered Virtual Mouse project! This project uses hand gestures
 
 ## 📦 Modules Used
 
+
 - `cv2`: The OpenCV library is used for capturing video frames and image processing.
 - `mediapipe`: Google's MediaPipe library is used for hand detection.
 - `pyautogui`: This library allows for programmatically controlling the mouse.
